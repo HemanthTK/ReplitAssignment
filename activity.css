@@ -1,0 +1,78 @@
+.info-container{
+    width: 1100px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 30px;
+    /* box-shadow: 0px 0px 30px 30px  lightgray; */
+    box-shadow: 2px 2px 5px 25px lightgrey;
+   
+}
+.body{
+    background-color: black;
+    z-index: 1;
+}
+.profPhoto{
+    margin-left: 10px;
+    margin-top: 20px;
+
+   
+}
+
+.details {
+    padding-top: 20px;
+    padding-right: 0;
+    margin-right: 0;
+    font-size: 1rem;
+    text-align: left;
+   
+
+}
+.details > p{
+    padding-left: 50px;
+}
+.skills{
+    margin-left:10px;
+    float: left;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+ 
+.pull-right{
+    text-align: right;
+    position: absolute;
+    right: 0px;
+ 
+}
+.myprogress{
+ margin-left: 10px;
+}
+.underline{
+    text-decoration: underline blue 3px;
+}
+h1{
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.w-95{
+    width: auto;
+    margin-left: 50px;
+}
+h2{
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about{
+    margin-top: 30px;
+    color: darkolivegreen;
+
+}
+.line{
+    margin-left: 10px;
+    height: 2px;
+    width:115px;
+    background-color: blue;
+
+}
